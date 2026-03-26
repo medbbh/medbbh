@@ -1,18 +1,26 @@
-# Hi there! 👋
+# Hi there! 👋 I'm M'Hamed El Bah
 
-I'm [M'Hamed](https://medbbh.vercel.app/), a full-stack developer and AI enthusiast based in Nouakchott, Mauritania.
+Full-stack engineer based in Nouakchott, Mauritania — building production fintech systems by day and open-source projects by night.
 
-I love building secure, scalable web applications and exploring how AI can make them smarter. My focus is on creating clean, efficient code and intuitive user experiences.
+Currently working at **Next Technology**, contributing to digital banking platforms serving 1M+ end users and 20+ financial institutions across Mauritania.
 
-**Recent Projects:**
-- **Thimar** - AI-powered productivity platform (🏆 Winner, Supabase Launch Week 14)
-- **Blockchain Medical Record System** - HIPAA-compliant healthcare platform with advanced encryption
-- **School Assessment Platform** - Role-based academic evaluation system
+Open to **remote opportunities**.
 
-**Currently:** Exploring AI integration in web applications and working on new full-stack projects.
+---
 
-Always open to interesting collaborations and learning opportunities! Feel free to explore my repositories and reach out if you'd like to work together. 🚀
+## 🛠️ Stack
 
-**Let's connect!**
+```
+Backend   → Django REST Framework, FastAPI, Node.js
+Frontend  → React, Next.js, TypeScript, Tailwind CSS
+Databases → PostgreSQL, MongoDB, Redis
+Cloud     → Docker, Google Cloud Run, Vercel, Supabase
+```
+
+---
+
+## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhamed-elbah-6a954b211)
+
+📧 mhamed.bbh01@gmail.com
